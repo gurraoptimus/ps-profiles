@@ -1,6 +1,6 @@
 # PSN Profile Viewer
 
-This project displays a PlayStation Network (PSN) profile summary using PHP. It fetches data from [psnprofiles](https://psnprofiles.com/) and shows the user's avatar, level, and trophy counts.
+This project displays a PlayStation Network (PSN) profile summary using PHP. It fetches data from [psnprofiles.com](https://psnprofiles.com/) and shows the user's avatar, level, and trophy counts.
 
 ## Features
 
@@ -13,7 +13,7 @@ This project displays a PlayStation Network (PSN) profile summary using PHP. It 
 1. Place the PHP file in your web server directory.
 2. Access the page with optional query parameters:
     - `psnId` (PSN username, default: `PlayStationUS`)
-    - `avatar` (Avatar ID, default: `DefaultAvatar_m`)
+    - `avatar` (Avatar ID, default: `G3de91d26c`)
 
 Example:
 ```
@@ -22,7 +22,7 @@ http://localhost/ps-profile/?psnId=YourPSNID&avatar=YourAvatarID
 
 ## Example Output
 
-![Profile Example](https://i.psnprofiles.com/avatars/m/Default/DefaultAvatar_m.png)
+![Profile Example](https://i.psnprofiles.com/avatars/m/G3de91d26c.png)
 
 | Trophy Type | Count |
 |-------------|-------|
