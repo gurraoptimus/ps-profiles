@@ -17,7 +17,7 @@ This project displays a PlayStation Network (PSN) profile summary using PHP. It 
 
 Example:
 ```
-http://localhost/ps-profile/?psnId=Gurraoptimus&avatar=G3de91d26c
+http://localhost/ps-profile/?psnId=YourPSNID&avatar=YourAvatarID
 ```
 
 ## Example Output
