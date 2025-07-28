@@ -1,7 +1,7 @@
 <?php
 // Get PSN ID and Avatar ID from query string, with defaults
 $psnId = isset($_GET['psnId']) && !empty($_GET['psnId']) ? $_GET['psnId'] : 'PlayStationUS';
-$avatarId = isset($_GET['avatar']) && !empty($_GET['avatar']) ? $_GET['avatar'] : 'default-avatar-id';
+$avatarId = isset($_GET['avatar']) && !empty($_GET['avatar']) ? $_GET['avatar'] : 'DefaultAvatar_m';
 
 $url = "https://psnprofiles.com/" . urlencode($psnId);
 

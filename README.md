@@ -13,7 +13,7 @@ This project displays a PlayStation Network (PSN) profile summary using PHP. It 
 1. Place the PHP file in your web server directory.
 2. Access the page with optional query parameters:
     - `psnId` (PSN username, default: `PlayStationUS`)
-    - `avatar` (Avatar ID, default: `default-avatar-id`)
+    - `avatar` (Avatar ID, default: `DefaultAvatar_m.png`)
 
 Example:
 ```
@@ -22,7 +22,7 @@ http://localhost/ps-profile/?psnId=YourPSNID&avatar=YourAvatarID
 
 ## Example Output
 
-![Profile Example](https://i.psnprofiles.com/avatars/m/DefaultAvatar_m.png)
+![Profile Example](https://i.psnprofiles.com/avatars/m/.png)
 
 | Trophy Type | Count |
 |-------------|-------|
