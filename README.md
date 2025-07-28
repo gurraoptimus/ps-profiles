@@ -22,7 +22,7 @@ http://localhost/ps-profile/?psnId=YourPSNID&avatar=YourAvatarID
 
 ## Example Output
 
-![Profile Example](https://i.psnprofiles.com/avatars/m/default-avatar-id.png)
+![Profile Example](https://i.psnprofiles.com/avatars/m/DefaultAvatar_m.png)
 
 | Trophy Type | Count |
 |-------------|-------|
